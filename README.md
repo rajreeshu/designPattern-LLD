@@ -17,4 +17,4 @@ Low Level Design (LLD) focuses on the detailed implementation phase of software 
 Clone this repository to explore and run the projects locally:
 
 ```bash
-git clone https://github.com/rajreeshu/designPattern-LLD
+git clone https://github.com/rajreeshu/designPattern-LLD.git
